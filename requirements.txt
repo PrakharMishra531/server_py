@@ -2,3 +2,4 @@ flask
 python-dotenv
 reportlab
 gunicorn
+google-generativeai
