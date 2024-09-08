@@ -1,5 +1,4 @@
 flask
-json
 python-dotenv
 reportlab
 gunicorn
