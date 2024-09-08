@@ -7,6 +7,9 @@ app = Flask(__name__)
 UPLOAD_FOLDER = 'uploads'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
+if not os.path.exists(UPLOAD_FOLDER):
+    os.makedirs(UPLOAD_FOLDER)
+
 @app.route('/upload', methods=['POST'])
 def upload_file():
     if 'file' not in request.files:
@@ -17,7 +20,10 @@ def upload_file():
     if file and file.filename.endswith('.zip'):
         filename = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
         file.save(filename)
-        extractor.extract_data()
+        try:
+            extractor.extract_data()
+        except Exception as e:
+            return f'Error while extracting data: {str(e)}', 500
         try:
             import get_info
             message = get_info.feed_ai()
