@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Aaditya shanmugam"
+    },
+    {
+      "name": "MozartX"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MozartX",
+      "timestamp_ms": 1725207232491,
+      "share": {
+        "link": "https://instagram.com/stories/mozartx4/3447608165922185261"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MozartX",
+      "timestamp_ms": 1725205738897,
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Aaditya shanmugam",
+  "is_still_participant": true,
+  "thread_path": "inbox/aadityashanmugam_17851354254271047",
+  "magic_words": [
+    
+  ]
+}

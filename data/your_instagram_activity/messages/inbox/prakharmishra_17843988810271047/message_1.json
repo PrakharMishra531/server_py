@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Prakhar Mishra"
+    },
+    {
+      "name": "MozartX"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prakhar Mishra",
+      "timestamp_ms": 1725207368554,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MozartX",
+      "timestamp_ms": 1725207232942,
+      "share": {
+        "link": "https://instagram.com/stories/mozartx4/3447608165922185261"
+      },
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MozartX",
+      "timestamp_ms": 1725205737380,
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Prakhar Mishra",
+  "is_still_participant": true,
+  "thread_path": "inbox/prakharmishra_17843988810271047",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Geevargese John"
+    },
+    {
+      "name": "MozartX"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Geevargese John",
+      "timestamp_ms": 1725215579902,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Geevargese John",
+      "timestamp_ms": 1725210561798,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MozartX",
+      "timestamp_ms": 1725207233760,
+      "share": {
+        "link": "https://instagram.com/stories/mozartx4/3447608165922185261"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Geevargese John",
+  "is_still_participant": true,
+  "thread_path": "inbox/geevargesejohn_17994306632679940",
+  "magic_words": [
+    
+  ]
+}

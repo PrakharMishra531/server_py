@@ -1,0 +1,18 @@
+{
+  "media_list_data": [
+    {
+      "uri": ""
+    }
+  ],
+  "string_map_data": {
+    "Comment": {
+      "value": "Test comment 1"
+    },
+    "Media Owner": {
+      "value": "mozartx4"
+    },
+    "Time": {
+      "timestamp": 1725298757
+    }
+  }
+}

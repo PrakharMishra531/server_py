@@ -1,21 +1,24 @@
 from flask import Flask, request, send_file
 import os
 import extractor
+import shutil
 
 app = Flask(__name__)
 
 UPLOAD_FOLDER = 'uploads'
-app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
-
-if os.path.exists(UPLOAD_FOLDER):
-    shutil.rmtree(UPLOAD_FOLDER)
-os.makedirs(UPLOAD_FOLDER)
-
-if os.path.exists('section.pdf'):
-    os.remove('section.pdf')
-
 @app.route('/upload', methods=['POST'])
 def upload_file():
+    
+    
+    app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
+    if os.path.exists(UPLOAD_FOLDER):
+        shutil.rmtree(UPLOAD_FOLDER)
+    os.makedirs(UPLOAD_FOLDER)
+
+    if os.path.exists('section.pdf'):
+        os.remove('section.pdf')
+
     if 'file' not in request.files:
         return 'No file part', 400
     file = request.files['file']
@@ -43,7 +46,7 @@ def download_file():
     return send_file(filename, as_attachment=True)
 
 if __name__ == '__main__':
-    os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+    # os.makedirs(UPLOAD_FOLDER, exist_ok=True)
     app.run(host='0.0.0.0', port=5000, debug=True)
 
     

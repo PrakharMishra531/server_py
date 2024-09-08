@@ -1,0 +1,31 @@
+{
+  "ig_stories": [
+    {
+      "uri": "media/stories/202409/An965HCHzrUzCHOzsmcF_Y2yo1OHKpJfsIojohDySxSiafsKwNkMZC1s0d6zQoLmkvgp7spx7lyBjqYrzT8Gav_18047695036905385.mp4",
+      "creation_timestamp": 1725206939,
+      "media_metadata": {
+        "video_metadata": {
+          "exif_data": [
+            {
+              "software": "Picsart",
+              "device_id": "android-1a8b36bed667e2d0",
+              "camera_position": "unknown",
+              "date_time_original": "2024:09:01 21:36:42",
+              "source_type": "4"
+            }
+          ]
+        },
+        "camera_metadata": {
+          "has_camera_metadata": false
+        }
+      },
+      "title": "",
+      "cross_post_source": {
+        "source_app": "FB"
+      },
+      "dubbing_info": [
+        
+      ]
+    }
+  ]
+}

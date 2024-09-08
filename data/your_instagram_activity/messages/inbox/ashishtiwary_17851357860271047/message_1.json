@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Ashish Tiwary"
+    },
+    {
+      "name": "MozartX"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashish Tiwary",
+      "timestamp_ms": 1725220450834,
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "MozartX",
+      "timestamp_ms": 1725207233309,
+      "share": {
+        "link": "https://instagram.com/stories/mozartx4/3447608165922185261"
+      },
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ashish Tiwary",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashishtiwary_17851357860271047",
+  "magic_words": [
+    
+  ]
+}

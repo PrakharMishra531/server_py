@@ -1,0 +1,64 @@
+{
+  "profile_user": [
+    {
+      "title": "User information",
+      "media_map_data": {
+        "Profile photo": {
+          "uri": "media/profile/202407/452633093_508431004972191_5499171854651456110_n_17862252078190127.jpg",
+          "creation_timestamp": 1721669126,
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "cross_post_source": {
+            "source_app": "FB"
+          }
+        }
+      },
+      "string_map_data": {
+        "Email address": {
+          "href": "",
+          "value": "prakharmishra.531@gmail.com",
+          "timestamp": 0
+        },
+        "Phone number confirmed": {
+          "href": "",
+          "value": "False",
+          "timestamp": 0
+        },
+        "Username": {
+          "href": "",
+          "value": "mozartx4",
+          "timestamp": 0
+        },
+        "Name": {
+          "href": "",
+          "value": "MozartX",
+          "timestamp": 0
+        },
+        "Bio": {
+          "href": "",
+          "value": "sabse bada rog kya kahenge log",
+          "timestamp": 0
+        },
+        "Gender": {
+          "href": "",
+          "value": "male",
+          "timestamp": 0
+        },
+        "Date of birth": {
+          "href": "",
+          "value": "1970-01-01",
+          "timestamp": 0
+        },
+        "Private account": {
+          "href": "",
+          "value": "True",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

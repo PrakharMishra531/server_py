@@ -1,0 +1,44 @@
+{
+  "impressions_history_ads_seen": [
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "eliteelevatorsindia"
+        },
+        "Time": {
+          "timestamp": 1725205766
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "isbexeced"
+        },
+        "Time": {
+          "timestamp": 1725206833
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "eliteelevatorsindia"
+        },
+        "Time": {
+          "timestamp": 1725205952
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "isbexeced"
+        },
+        "Time": {
+          "timestamp": 1725207627
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "impressions_history_posts_seen": [
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "mozartx4"
+        },
+        "Time": {
+          "timestamp": 1724693949
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "yepicurus"
+        },
+        "Time": {
+          "timestamp": 1725306883
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "yepicurus"
+        },
+        "Time": {
+          "timestamp": 1725384925
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "mozartx4"
+        },
+        "Time": {
+          "timestamp": 1725299389
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "yepicurus"
+        },
+        "Time": {
+          "timestamp": 1725308090
+        }
+      }
+    },
+    {
+      "string_map_data": {
+        "Author": {
+          "value": "yepicurus"
+        },
+        "Time": {
+          "timestamp": 1725385029
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "devices_devices": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1725302622
+        },
+        "User agent": {
+          "href": "",
+          "value": "Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Last login": {
+          "href": "",
+          "value": "",
+          "timestamp": 1725197409
+        },
+        "User agent": {
+          "href": "",
+          "value": "Instagram 346.0.0.45.104 Android (34/14; 450dpi; 1080x2221; samsung; SM-M346B; m34x; s5e8825; en_GB; 636273574)",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "account_history_logout_history": [
+    {
+      "title": "2024-09-02T18:44:08+00:00",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Cookie name": {
+          "href": "",
+          "value": "*************************_kH",
+          "timestamp": 0
+        },
+        "IP address": {
+          "href": "",
+          "value": "122.187.117.179",
+          "timestamp": 0
+        },
+        "Language code": {
+          "href": "",
+          "value": "en",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1725302648
+        },
+        "User agent": {
+          "href": "",
+          "value": "Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "2024-09-02T18:40:41+00:00",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Cookie name": {
+          "href": "",
+          "value": "*************************WE-",
+          "timestamp": 0
+        },
+        "IP address": {
+          "href": "",
+          "value": "122.187.117.179",
+          "timestamp": 0
+        },
+        "Language code": {
+          "href": "",
+          "value": "en",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1725302441
+        },
+        "User agent": {
+          "href": "",
+          "value": "Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "2024-09-02T18:34:17+00:00",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Cookie name": {
+          "href": "",
+          "value": "*************************V6g",
+          "timestamp": 0
+        },
+        "IP address": {
+          "href": "",
+          "value": "122.187.117.179",
+          "timestamp": 0
+        },
+        "Language code": {
+          "href": "",
+          "value": "en",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1725302057
+        },
+        "User agent": {
+          "href": "",
+          "value": "Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)",
+          "timestamp": 0
+        }
+      }
+    },
+    {
+      "title": "2024-09-02T17:40:20+00:00",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Cookie name": {
+          "href": "",
+          "value": "*************************MiR",
+          "timestamp": 0
+        },
+        "IP address": {
+          "href": "",
+          "value": "122.187.117.179",
+          "timestamp": 0
+        },
+        "Language code": {
+          "href": "",
+          "value": "en",
+          "timestamp": 0
+        },
+        "Time": {
+          "href": "",
+          "value": "",
+          "timestamp": 1725298820
+        },
+        "User agent": {
+          "href": "",
+          "value": "Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

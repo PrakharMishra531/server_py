@@ -1,0 +1,35 @@
+{
+  "ig_recently_deleted_media": [
+    {
+      "media": [
+        {
+          "uri": "media/recently_deleted/202409/QIVAigCQzksF0AuEOVgQYk3GBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXoBwA_18012920375545208",
+          "creation_timestamp": 1725205271,
+          "media_metadata": {
+            "video_metadata": {
+              "exif_data": [
+                {
+                  "software": "Picsart",
+                  "device_id": "android-1a8b36bed667e2d0",
+                  "camera_position": "unknown",
+                  "date_time_original": "2024:09:01 20:10:39",
+                  "source_type": "4"
+                }
+              ]
+            },
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "Trek Trek",
+          "cross_post_source": {
+            "source_app": "FB"
+          },
+          "dubbing_info": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}
